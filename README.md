@@ -21,9 +21,9 @@
 在使用本项目的对接服务前，请务必：
 
 - 仔细阅读并理解：
- - 《Orange Engine 用户许可协议》
- - 《Orange Engine 免责声明》
- - 《Orange Engine 隐私政策》
+- [《Orange Engine 用户许可协议》](https://www.oranginex.com/Orange_Engine_EULA.html)
+- [《Orange Engine 免责声明》](https://www.oranginex.com/Orange_Engine_Disclaimer.html)
+- [《Orange Engine 隐私政策》](https://www.oranginex.com/Orange_Engine_Privacy_Policy.html)
 - 确认完全同意上述全部条款后再进行使用。
 
 ---
